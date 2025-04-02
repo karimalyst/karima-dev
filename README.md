@@ -1,38 +1,43 @@
 # 👋 Hi, I'm Karima
 
-Multilingual creator | Tech & AI enthusiast | Building tools that make work easier
+Multilingual educator | Tech enthusiast | Creator of KinderLingo ✨  
+I build beautiful, brain-friendly digital tools that make learning & admin life easier.
 
 ---
 
 ### 💡 What I Do
-- Create AI-enhanced templates & digital products
-- Build educational resources in Arabic, English, French, Italian & Spanish
-- Use tech to reduce digital "toil" & empower solo creatives
+- Create AI-enhanced bilingual printables for kids  
+- Design admin templates & automation kits for freelancers  
+- Use tech to reduce “toil” and make everyday work playful
 
 ---
 
 ### 🛠️ Tools & Tech
-- Languages: Python, SQL, Markdown, JavaScript (learning)
-- Tools: Canva, Notion, Zapier, Airtable, Trello, ChatGPT, Git
+- Python, SQL, Markdown (learning JavaScript & Salesforce Dev)  
+- Canva, Notion, Airtable, Zapier, Trello, ChatGPT, Claude  
 - Platforms: Gumroad, Etsy, Pinterest
 
 ---
 
 ### 🔥 Featured Projects
 
-#### 🟣 [KinderLingo – Bilingual Printables Store](https://yourgumroadlink)
-> Flashcards & worksheets for little learners in Arabic-English, French-Italian and more. Created with Canva + AI prompts. Sold on Gumroad and promoted via Pinterest.
+#### 🟣 [KinderLingo – Bilingual Printables Store](https://kinderlingo.gumroad.com)
+Flashcards & worksheets in Arabic-English, French-Italian, and more.  
+Created using AI + Canva. Loved by parents, teachers & homeschoolers around the world.
 
-#### 🔵 VA Toolkit (Coming Soon)
-> Admin templates and automation flows designed for Virtual Assistants. Includes onboarding forms, AI email drafts, and task planners.
+#### 🟢 VA Toolkit (Coming Soon)
+Templates and automations for Virtual Assistants.  
+Includes onboarding docs, AI-powered task planners, email replies, and client trackers.
 
-#### 🟢 AI Travel Planner (WIP)
-> Concept for an AI-powered travel planning tool for gluten-free families — automating itineraries, checklists, and safe food searches.
+#### 🧳 AI Travel Planner (WIP)
+A smart trip-planning system for gluten-free families.  
+Auto-generates itineraries, restaurant lists & packing guides.
 
 ---
 
 ### 🌍 Let's Connect
 
-Looking to collaborate on educational tools, ethical AI, or productivity workflows?  
-I'm always up for building things that help others work smarter.
+I'm always looking to collaborate on tools that make life easier — from education to automation to admin hacks.  
+Whether you're building with AI or want to work across languages, let’s chat!
 
+---
